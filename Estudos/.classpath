@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="ExercíciosDeDecisão"/>
+	<classpathentry kind="src" path="ExercíciosEstruturais"/>
+	<classpathentry kind="src" path="Programação Sequencial"/>
+	<classpathentry kind="src" path="Laços Condicionais"/>
+	<classpathentry kind="src" path="LaçosDeRepetição"/>
+	<classpathentry kind="src" path="VetoresEMatrizes"/>
+	<classpathentry kind="src" path="listaDeExercicios2"/>
+	<classpathentry kind="src" path="ExerciciosDeRepetição"/>
+	<classpathentry kind="src" path="ExerciciosDeRepetição2"/>
+	<classpathentry kind="src" path="Exercicios de Array"/>
+	<classpathentry kind="src" path="ExerciciosPOO"/>
+	<classpathentry kind="src" path="Herança e Polimorfismo"/>
+	<classpathentry kind="src" path="Projeto Conclusão Módulo1"/>
+	<classpathentry kind="src" path="Práticas de POO"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
