@@ -7,9 +7,9 @@ public class ConversaoTemperatura2 {
 		System.out.printf("Informe a temperatura em Celsius:\n");
 		float TemperaturaCelsius = scanner.nextFloat();
 		
-		double TemperaturaFahrenheit = ((TemperaturaCelsius - 32) / 1.8);
+		double TemperaturaFahrenheit = (TemperaturaCelsius * (9/5) + 32);
 		
-		System.out.println(TemperaturaCelsius + "ºC = " + TemperaturaFahrenheit + "ºF");	
+		System.out.println(TemperaturaCelsius + "ÂºC = " + TemperaturaFahrenheit + "ÂºF");	
 		scanner.close();
 	}
 }
